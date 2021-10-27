@@ -1,0 +1,11 @@
+.Profile{
+	border: 5px solid rgb(238, 232, 232);
+	width: 750px;
+	margin-top: 50px;
+	margin-left: 300px;
+	font-size: 20px;
+	font-family: fantasy;
+	background-color: hsla(90, 5%, 52%, 0.3);
+
+
+}
